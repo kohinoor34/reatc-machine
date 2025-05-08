@@ -1,0 +1,17 @@
+
+.strikethrough{
+    text-decoration: line-through;
+}
+
+
+.btn{
+    background:red;
+   height: 20px;
+   width: 50px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.btn:hover{
+    background: green;
+    
+}
